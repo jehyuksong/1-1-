@@ -29,7 +29,7 @@
         text-align: center;
         font-size: 10px;
       }
-
+ 
       body {
         margin: 0;
         font-size: 2rem;
