@@ -13,3 +13,4 @@
 - ### [8.Canvas](./08day_Canvas.md)
 - ### [9.Dev Tools Tricks](./09day_DevToolsTricks.md)
 - ### [10.Shift To Check Multiple Checkboxes](./10day_ShiftToCheckMulti.md)
+- ### [11.Video Player](./11day_VideoPlayer.md)
