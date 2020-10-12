@@ -17,3 +17,4 @@
 - ### [12.Key Sequence Detection](./12day_KeySequenceDetection.md)
 - ### [13.Slide In On Scroll](./13day_SlideInOnScroll.md)
 - ### [14.Reference VS Copy](./14day_ReferenceCopy.md)
+- ### [15.LocalStorage](./15day_LocalStorage.md)
