@@ -19,3 +19,4 @@
 - ### [14.Reference VS Copy](./14day_ReferenceCopy.md)
 - ### [15.LocalStorage](./15day_LocalStorage.md)
 - ### [16.Mouse Shadow Effect](./16day_MouseShadowEffect.md)
+- ### [17.Sorting Band Names](./17day_Sorting.md)
