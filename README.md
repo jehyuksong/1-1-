@@ -20,3 +20,4 @@
 - ### [15.LocalStorage](./15day_LocalStorage.md)
 - ### [16.Mouse Shadow Effect](./16day_MouseShadowEffect.md)
 - ### [17.Sorting Band Names](./17day_Sorting.md)
+- ### [18.Reduce Time-hours,mins,seconds](./18day_ReduceTime.md)
