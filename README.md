@@ -26,3 +26,4 @@
 - ### [21.Geolocation](./21day_Geolocation.md)
 - ### [22.Follow Along Links](./22day_FollowAlongLinks.md)
 - ### [23.Speech Synthesis](./23day_SpeechSynthesis.md)
+- ### [24.Sticky Nav](./24day_StickyNav.md)
