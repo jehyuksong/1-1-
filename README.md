@@ -29,3 +29,4 @@
 - ### [24.Sticky Nav](./24day_StickyNav.md)
 - ### [25.Event Capture, Bubbling, Once](./25day_EventOptions.md)
 - ### [26.Stripe Follow Along Dropdown](./26day_Dropdown.md)
+- ### [27.Click Drag And Scroll](./27day_ClickDragScroll.md)
