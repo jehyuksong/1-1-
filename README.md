@@ -30,3 +30,4 @@
 - ### [25.Event Capture, Bubbling, Once](./25day_EventOptions.md)
 - ### [26.Stripe Follow Along Dropdown](./26day_Dropdown.md)
 - ### [27.Click Drag And Scroll](./27day_ClickDragScroll.md)
+- ### [28.Video Speed Controller](./28day_VideoSpeedController.md)
