@@ -31,3 +31,5 @@
 - ### [26.Stripe Follow Along Dropdown](./26day_Dropdown.md)
 - ### [27.Click Drag And Scroll](./27day_ClickDragScroll.md)
 - ### [28.Video Speed Controller](./28day_VideoSpeedController.md)
+- ### [29.Countdown Clock](./29day_CountdownClock.md)
+- ### [30.Whack A Mole!](./30day_WhackAMole.md)
